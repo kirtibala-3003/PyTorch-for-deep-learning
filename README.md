@@ -1,4 +1,4 @@
-# PyTorch-for-deep-learning
+# PyTorch-for-deep-learning (FOUNDATION)
 PyTorch is an open - sorce of deep learning framework developed b Facebook's AI Reasearch Lab (FAIR). It is widely used for building and training neural networks , which is a core component of deep learning.
 <br>
 Pythonic and User-Friendly:
